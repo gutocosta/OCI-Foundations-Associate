@@ -34,3 +34,6 @@ override.tf.json
 .kitchen.local.yml
 kitchen.yml
 kitchen.local.yml
+
+.env
+*.auto.tfvars
